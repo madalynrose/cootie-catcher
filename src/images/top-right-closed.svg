@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M399.499 0.511163C191.599 5.6096 108.441 16.7481 0.498751 46.6256V385.537H13.4663V399.501H359.399C390.42 267.113 398.873 179.274 399.499 0.511163Z" fill="url(#paint0_angular-trc)"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M400 0L399.998 0.512911C399.371 179.301 390.917 267.179 359.884 399.615L359.794 400H12.9675V386.035H0V46.2462L0.3657 46.1449C108.364 16.2519 191.567 5.11148 399.487 0.0125749L400 0ZM0.997502 47.0051V385.038H13.965V399.003H359.003C389.91 267.002 398.358 179.242 398.999 1.02234C191.728 6.12029 108.618 17.2436 0.997502 47.0051Z" fill="url(#paint1_angular-trc)"/>
+<circle cx="200" cy="200" r="85" fill="url(#paint2_angular-trc)"/>
+<defs>
+<radialGradient id="paint0_angular-trc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400) rotate(135) scale(565.685)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint1_angular-trc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400) rotate(135) scale(565.685)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint2_angular-trc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(397.5 -2.00001) rotate(-179.013) scale(406.56 388.65)">
+<stop stopColor="#67C48E"/>
+<stop offset="1" stopColor="#67C48E" stopOpacity="0.75"/>
+</radialGradient>
+</defs>
+</svg>

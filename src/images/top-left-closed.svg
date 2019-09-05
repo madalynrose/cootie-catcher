@@ -1,0 +1,29 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.998597 1.01975C208.381 6.10535 291.332 17.2158 399.005 47.0181V385.076H386.07V399.005H40.9993C10.055 266.95 1.62376 179.332 0.998597 1.01975Z" fill="url(#paint0_angular-tlc)"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M0.499299 0.509875L1.01079 0.522419C208.413 5.60849 291.408 16.7209 399.138 46.5386L399.503 46.6396V385.573H386.567V399.503H40.6049L40.5149 399.119C9.55961 267.016 1.12634 179.359 0.501092 1.02149L0.499299 0.509875ZM1.49792 1.52965C2.13671 179.3 10.5637 266.84 41.3938 398.508H385.572V384.578H398.507V47.3966C291.156 17.7101 208.252 6.61475 1.49792 1.52965Z" fill="url(#paint1_angular-tlc)"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M0.499299 0.509875L1.01079 0.522419C208.413 5.60849 291.408 16.7209 399.138 46.5386L399.503 46.6396V385.573H386.567V399.503H40.6049L40.5149 399.119C9.55961 267.016 1.12634 179.359 0.501092 1.02149L0.499299 0.509875ZM1.49792 1.52965C2.13671 179.3 10.5637 266.84 41.3938 398.508H385.572V384.578H398.507V47.3966C291.156 17.7101 208.252 6.61475 1.49792 1.52965Z" fill="url(#paint2_angular-tlc)"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M0 0L1.02299 0.0250865C208.444 5.11162 291.485 16.226 399.27 46.0591L400 46.2611V386.07H387.065V400H40.2105L40.0305 399.232C9.06419 267.083 0.628925 179.386 0.00358746 1.02324L0 0ZM1.00027 1.49257C1.03965 12.4695 1.1087 23.1026 1.21088 33.4235C1.10882 23.1148 1.03981 12.4946 1.00041 1.53143L1.00027 1.49257ZM1.99728 2.03958C2.64969 179.269 11.0723 266.729 41.7883 398.01H385.075V384.081H398.01V47.7752C290.979 18.2043 208.124 7.12416 1.99728 2.03958Z" fill="url(#paint3_angular-tlc)"/>
+<circle cx="200" cy="200" r="85" fill="url(#paint4_angular-tlc)"/>
+<defs>
+<radialGradient id="paint0_angular-tlc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(386.5 384) rotate(-135.186) scale(544.829)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint1_angular-tlc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(386.5 384) rotate(-135.186) scale(544.829)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint2_angular-tlc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(386.5 384) rotate(-135.186) scale(544.829)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint3_angular-tlc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(386.5 384) rotate(-135.186) scale(544.829)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint4_angular-tlc" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(397.5 -2.00001) rotate(-179.013) scale(406.56 388.65)">
+<stop stopColor="#EB5757"/>
+<stop offset="1" stopColor="#EB5757" stopOpacity="0.76"/>
+</radialGradient>
+</defs>
+</svg>

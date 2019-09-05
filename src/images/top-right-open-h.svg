@@ -1,0 +1,14 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 165.586C86.5262 76.808 124.056 39.9002 338.807 0C286.683 173.566 470.161 295.262 369.04 400H338.807L0 165.586Z" fill="url(#paint0_radial-troh)"/>
+<ellipse rx="54.5" ry="80" transform="matrix(-0.558601 0.829436 0.829436 0.558601 245.799 199.892)" fill="url(#paint1_linear-troh)" fill-opacity="0.9"/>
+<defs>
+<radialGradient id="paint0_radial-troh" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(367 400) rotate(-114.825) scale(397.756 397.756)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<linearGradient id="paint1_linear-troh" x1="6.86062" y1="50.138" x2="90.3618" y2="132.895" gradientUnits="userSpaceOnUse">
+<stop stopColor="#67C48E"/>
+<stop offset="1" stopColor="#67C48E" stopOpacity="0.75"/>
+</linearGradient>
+</defs>
+</svg>

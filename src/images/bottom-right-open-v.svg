@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-3.05176e-05 400C194.5 400 184.44 328.331 400 368.381C400 182.685 400 122.961 273.024 0L-3.05176e-05 348.306V400Z" fill="url(#paint0_radial-brov)"/>
+<path d="M-3.05176e-05 400C194.5 400 184.44 328.331 400 368.381C400 182.685 400 122.961 273.024 0L-3.05176e-05 348.306V400Z" fill="url(#paint1_radial-brov)"/>
+<ellipse cx="270.235" cy="223.808" rx="54.5" ry="80" transform="rotate(14 270.235 223.808)" fill="url(#paint2_linear-brov)" fill-opacity="0.9"/>
+<defs>
+<radialGradient id="paint0_radial-brov" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 354) rotate(-138.382) scale(311.67)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<radialGradient id="paint1_radial-brov" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 354) rotate(-138.382) scale(311.67)">
+<stop stopColor="#8E8988" stopOpacity="0.25"/>
+<stop offset="1" stopColor="#F2EEEE" stopOpacity="0.85"/>
+</radialGradient>
+<linearGradient id="paint2_linear-brov" x1="222.596" y1="193.946" x2="306.097" y2="276.704" gradientUnits="userSpaceOnUse">
+<stop stopColor="#BB6BD9" stopOpacity="0.75"/>
+<stop offset="1" stopColor="#BB6BD9"/>
+</linearGradient>
+</defs>
+</svg>
